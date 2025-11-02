@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Della HTML Template</title>
+    <title>Nexis Dev Solution</title>
     <!-- Stylesheets -->
     <link href="{{ asset('assets/css/bootstrap.css') }}" rel="stylesheet">
     <link href="{{ asset('assets/plugins/revolution/css/layers.css') }}" rel="stylesheet" type="text/css">
@@ -82,7 +82,8 @@
                                 <li><a href="#"><span class="fa fa-facebook"></span></a></li>
                                 <li><a href="#"><span class="fa fa-twitter"></span></a></li>
                             </ul>
-                            <div class="link"><a href="javascript:;" class="theme-btn btn-style-three">Schedule Now</a></div>
+                            <div class="link"><a href="javascript:;" class="theme-btn btn-style-three">Schedule
+                                    Now</a></div>
                         </div>
 
                     </div>
@@ -123,7 +124,7 @@
                                 data-textalign="['top','top','top','top']"
                                 data-frames='[{"delay":0,"split":"chars","splitdelay":0.1,"speed":2000,"frame":"0","from":"x:[-105%];z:0;rX:0deg;rY:0deg;rZ:-90deg;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
                                 style="z-index: 7; white-space: nowrap;text-align: center;">
-                                <h3 class="white-text medium">We are Digital agency</h3>
+                                <h3 class="white-text medium">Welcome to NexisDev</h3>
                             </div>
 
 
@@ -137,7 +138,8 @@
                                 data-textalign="['top','top','top','top']"
                                 data-frames='[{"delay":0,"speed":1500,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
                                 style="z-index: 7; white-space: nowrap;">
-                                <h2 class="white-text text-center medium">Get Modern Solutions</h2>
+                                <h2 class="white-text text-center medium">We Build Powerful Web & Mobile Experiences
+                                </h2>
                             </div>
 
                             <div class="tp-caption" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
@@ -149,8 +151,8 @@
                                 data-textalign="['top','top','top','top']"
                                 data-frames='[{"delay":0,"speed":1500,"frame":"0","from":"x:[-175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
                                 style="z-index: 7; white-space: nowrap;">
-                                <div class="text light text-center">Desire explain to you how this mistaken idea
-                                    denouncing pleasure praising pain was born will give you a completed. </div>
+                                <div class="text light text-center">From sleek websites to scalable applications — we
+                                    craft solutions that help your business grow. </div>
                             </div>
 
                             <div class="tp-caption tp-resizeme" data-paddingbottom="[0,0,0,0]"
@@ -163,7 +165,7 @@
                                 data-textalign="['top','top','top','top']"
                                 data-frames='[{"delay":0,"speed":2000,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
                                 style="z-index: 7; white-space: nowrap; text-align:  center;">
-                                <a href="#" class="theme-btn btn-style-one">Read More</a>
+                                <a href="#about" class="theme-btn btn-style-one">About Us</a>
                             </div>
 
                         </li>
@@ -190,7 +192,7 @@
                                 data-textalign="['top','top','top','top']"
                                 data-frames='[{"delay":0,"split":"chars","splitdelay":0.1,"speed":2000,"frame":"0","from":"x:[-105%];z:0;rX:0deg;rY:0deg;rZ:-90deg;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
                                 style="z-index: 7; white-space: nowrap;text-align: center;">
-                                <h3 class="white-text medium">Have your dream</h3>
+                                <h3 class="white-text medium">Digital Solutions</h3>
                             </div>
 
 
@@ -204,7 +206,7 @@
                                 data-textalign="['top','top','top','top']"
                                 data-frames='[{"delay":0,"speed":1500,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
                                 style="z-index: 7; white-space: nowrap;">
-                                <h2 class="white-text text-center medium">Fresh & Unique Design</h2>
+                                <h2 class="white-text text-center medium">Tailored Web & App Development Services</h2>
                             </div>
 
                             <div class="tp-caption" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
@@ -216,8 +218,8 @@
                                 data-textalign="['top','top','top','top']"
                                 data-frames='[{"delay":0,"speed":1500,"frame":"0","from":"x:[-175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
                                 style="z-index: 7; white-space: nowrap;">
-                                <div class="text light text-center">Desire explain to you how this mistaken idea
-                                    denouncing pleasure praising pain was born will give you a completed. </div>
+                                <div class="text light text-center">We combine creativity, technology, and strategy to
+                                    deliver outstanding user experiences. </div>
                             </div>
 
                             <div class="tp-caption tp-resizeme" data-paddingbottom="[0,0,0,0]"
@@ -230,7 +232,7 @@
                                 data-textalign="['top','top','top','top']"
                                 data-frames='[{"delay":0,"speed":2000,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
                                 style="z-index: 7; white-space: nowrap; text-align:  center;">
-                                <a href="#" class="theme-btn btn-style-one">Services</a>
+                                <a href="#services" class="theme-btn btn-style-one">Services</a>
                             </div>
 
                         </li>
@@ -257,7 +259,7 @@
                                 data-textalign="['top','top','top','top']"
                                 data-frames='[{"delay":0,"split":"chars","splitdelay":0.1,"speed":2000,"frame":"0","from":"x:[-105%];z:0;rX:0deg;rY:0deg;rZ:-90deg;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
                                 style="z-index: 7; white-space: nowrap;text-align: center;">
-                                <h3 class="white-text medium">The Best Choice to</h3>
+                                <h3 class="white-text medium">Digital Partner</h3>
                             </div>
 
 
@@ -271,7 +273,7 @@
                                 data-textalign="['top','top','top','top']"
                                 data-frames='[{"delay":0,"speed":1500,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
                                 style="z-index: 7; white-space: nowrap;">
-                                <h2 class="white-text text-center medium">Reach Your Ambition</h2>
+                                <h2 class="white-text text-center medium">Crafting Digital Excellence</h2>
                             </div>
 
                             <div class="tp-caption" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
@@ -283,8 +285,8 @@
                                 data-textalign="['top','top','top','top']"
                                 data-frames='[{"delay":0,"speed":1500,"frame":"0","from":"x:[-175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
                                 style="z-index: 7; white-space: nowrap;">
-                                <div class="text light text-center">Desire explain to you how this mistaken idea
-                                    denouncing pleasure praising pain was born will give you a completed. </div>
+                                <div class="text light text-center">We turn ideas into interactive, performance-driven
+                                    digital products. </div>
                             </div>
 
                             <div class="tp-caption tp-resizeme" data-paddingbottom="[0,0,0,0]"
@@ -297,7 +299,7 @@
                                 data-textalign="['top','top','top','top']"
                                 data-frames='[{"delay":0,"speed":2000,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
                                 style="z-index: 7; white-space: nowrap; text-align:  center;">
-                                <a href="#" class="theme-btn btn-style-one">Testimonials</a>
+                                <a href="#projects" class="theme-btn btn-style-one">View Our Work</a>
                             </div>
 
                         </li>
@@ -314,95 +316,87 @@
         <section class="about-us sp-two" id="about">
             <div class="container">
                 <div class="sec-title centered">
-                    <div class="big-title">Story About Us</div>
-                    <h2>About Our Agency</h2>
+                    <div class="big-title">Who We Are</div>
+                    <h2>About NexisDev Solution</h2>
                 </div>
                 <div class="slick-slider-box">
                     <div class="slider slider-nav">
+
+                        <!-- Slide 1 -->
                         <div class="slide-item">
                             <div class="row">
                                 <div class="col-md-6 right-column">
-                                    <div class="img-box mb-30"><img
-                                            src="{{ asset('assets/images/resource/about.jpg') }}" alt="">
+                                    <div class="img-box mb-30">
+                                        <img src="{{ asset('assets/images/resource/about.jpg') }}" alt="">
                                     </div>
                                 </div>
                                 <div class="col-md-6 left-column">
                                     <div class="text-block-one mb-30">
-                                        <h2>We are a <b>creative agency with modern techs basesd</b> in Boston.</h2>
-                                        <div class="text">Expound the actual teachings the great explorers of the
-                                            truth the master builder of human happiness. No one rejects dislikes or
-                                            avoids sed pleasure itself, because is pleasure, but because those
-                                            extremely.</div>
+                                        <h2>We are a <b>creative digital agency</b> building web and app solutions for
+                                            modern businesses.</h2>
+                                        <div class="text">
+                                            NexisDev Solution is a team of passionate developers and designers focused
+                                            on turning ideas into powerful digital products. We build clean,
+                                            high-performing, and scalable solutions for startups and enterprises.
+                                        </div>
                                         <h4>Our Mission:</h4>
-                                        <div class="text">Denouncing pleasure and praising pain was born and I will
-                                            give you a complete account of the system, and expound the actual teachings
-                                            of the great explorer of the truth, the master-builder.</div>
+                                        <div class="text">
+                                            To help businesses grow through innovative web technologies, user-focused
+                                            design, and reliable development practices — ensuring quality, performance,
+                                            and long-term partnership.
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-
                         </div>
+
+                        <!-- Slide 2 -->
                         <div class="slide-item">
                             <div class="row">
                                 <div class="col-md-6 right-column">
-                                    <div class="img-box mb-30"><img
-                                            src="{{ asset('assets/images/resource/about.jpg') }}" alt="">
+                                    <div class="img-box mb-30">
+                                        <img src="{{ asset('assets/images/resource/about.jpg') }}" alt="">
                                     </div>
                                 </div>
                                 <div class="col-md-6 left-column">
                                     <div class="text-block-one mb-30">
-                                        <h2>We are a <b>creative agency with modern techs basesd</b> in Boston.</h2>
-                                        <div class="text">Expound the actual teachings the great explorers of the
-                                            truth the master builder of human happiness. No one rejects dislikes or
-                                            avoids sed pleasure itself, because is pleasure, but because those
-                                            extremely.</div>
+                                        <h2>We create <b>impactful digital experiences</b> that drive results.</h2>
+                                        <div class="text">
+                                            At NexisDev Solution, every project begins with understanding your vision
+                                            and goals. Our strategy blends creativity and technology to deliver
+                                            measurable success for your business.
+                                        </div>
                                         <h4>Our Vision:</h4>
-                                        <div class="text">Denouncing pleasure and praising pain was born and I will
-                                            give you a complete account of the system, and expound the actual teachings
-                                            of the great explorer of the truth, the master-builder.</div>
+                                        <div class="text">
+                                            To become a global technology partner trusted for quality, creativity, and
+                                            innovation — empowering brands to succeed through seamless digital
+                                            transformation.
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-
                         </div>
+
+                        <!-- Slide 3 -->
                         <div class="slide-item">
                             <div class="row">
                                 <div class="col-md-6 right-column">
-                                    <div class="img-box mb-30"><img
-                                            src="{{ asset('assets/images/resource/about.jpg') }}" alt="">
+                                    <div class="img-box mb-30">
+                                        <img src="{{ asset('assets/images/resource/about.jpg') }}" alt="">
                                     </div>
                                 </div>
                                 <div class="col-md-6 left-column">
                                     <div class="text-block-one mb-30">
-                                        <h2>Our <b>skill level</b> lets us down big time we got it with <b>hardwork.</b>
-                                        </h2>
-                                        <!--Progress Levels-->
+                                        <h2>Our <b>expertise</b> is built through years of <b>dedication and
+                                                innovation.</b></h2>
+
+                                        <!-- Progress Levels -->
                                         <div class="progress-levels">
                                             <div class="row clearfix">
 
-                                                <!--Skill Box-->
+                                                <!-- Skill Box -->
                                                 <div class="progress-box wow col-md-4 col-sm-4 col-xs-4">
                                                     <div class="inner count-box">
-
-                                                        <div class="bar">
-                                                            <div class="bar-innner">
-                                                                <div class="bar-fill" data-percent="62">
-                                                                    <div class="count-parcentage">
-                                                                        <span class="count-text" data-speed="2500"
-                                                                            data-stop="62">0</span><span
-                                                                            class="percent">%</span>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="text">Web design</div>
-                                                    </div>
-                                                </div>
-
-                                                <!--Skill Box-->
-                                                <div class="progress-box wow col-md-4 col-sm-4 col-xs-4">
-                                                    <div class="inner count-box">
-
                                                         <div class="bar">
                                                             <div class="bar-innner">
                                                                 <div class="bar-fill" data-percent="90">
@@ -414,26 +408,43 @@
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                        <div class="text">Photography</div>
+                                                        <div class="text">Web Development</div>
                                                     </div>
                                                 </div>
 
-                                                <!--Skill Box-->
+                                                <!-- Skill Box -->
                                                 <div class="progress-box wow col-md-4 col-sm-4 col-xs-4">
                                                     <div class="inner count-box">
-
                                                         <div class="bar">
                                                             <div class="bar-innner">
-                                                                <div class="bar-fill" data-percent="75">
+                                                                <div class="bar-fill" data-percent="85">
                                                                     <div class="count-parcentage">
                                                                         <span class="count-text" data-speed="2500"
-                                                                            data-stop="75">0</span><span
+                                                                            data-stop="85">0</span><span
                                                                             class="percent">%</span>
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                        <div class="text">Devlopment</div>
+                                                        <div class="text">UI / UX Design</div>
+                                                    </div>
+                                                </div>
+
+                                                <!-- Skill Box -->
+                                                <div class="progress-box wow col-md-4 col-sm-4 col-xs-4">
+                                                    <div class="inner count-box">
+                                                        <div class="bar">
+                                                            <div class="bar-innner">
+                                                                <div class="bar-fill" data-percent="80">
+                                                                    <div class="count-parcentage">
+                                                                        <span class="count-text" data-speed="2500"
+                                                                            data-stop="80">0</span><span
+                                                                            class="percent">%</span>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="text">App Development</div>
                                                     </div>
                                                 </div>
 
@@ -443,89 +454,96 @@
                                     </div>
                                 </div>
                             </div>
-
                         </div>
                         <!-- end slide item -->
+
                     </div>
                 </div>
-
             </div>
         </section>
+
 
         <!-- services icon section -->
         <section class="feature">
             <div class="container-fluid">
                 <div class="row flex-box">
+
                     <div class="services-block-one">
                         <div class="inner-box">
                             <div class="icon-box">
                                 <span class="icon-interface"></span>
                             </div>
-                            <a href="#">
-                                <h3>Pixel Perfect <br>Design</h3>
-                            </a>
-                            <div class="text">Lorem ipsum dolor amet contur adip isicing elit sed eiusm </div>
-                            <a href="#" class="read-more"><span class="icon-arrows-1"></span></a>
+                            <h3>Web Development</h3>
+                            <div class="text">
+                                We craft fast, secure, and scalable websites using Laravel, PHP, and modern frameworks —
+                                tailored to your business needs.
+                            </div>
                         </div>
                     </div>
+
                     <div class="services-block-one">
                         <div class="inner-box">
                             <div class="icon-box">
                                 <span class="icon-computer"></span>
                             </div>
-                            <a href="#">
-                                <h3>Pixel Perfect <br>Design</h3>
-                            </a>
-                            <div class="text">Lorem ipsum dolor amet contur adip isicing elit sed eiusm </div>
-                            <a href="#" class="read-more"><span class="icon-arrows-1"></span></a>
+                            <h3>App Development</h3>
+                            <div class="text">
+                                From Android to iOS, we develop user-friendly mobile applications that connect brands
+                                with customers effectively.
+                            </div>
                         </div>
                     </div>
+
                     <div class="services-block-one">
                         <div class="inner-box">
                             <div class="icon-box">
                                 <span class="icon-interface-1"></span>
                             </div>
-                            <a href="#">
-                                <h3>Free Plugins<br>Included</h3>
-                            </a>
-                            <div class="text">Lorem ipsum dolor amet contur adip isicing elit sed eiusm </div>
-                            <a href="#" class="read-more"><span class="icon-arrows-1"></span></a>
+                            <h3>UI / UX Design</h3>
+                            <div class="text">
+                                Our design team focuses on clean, engaging, and conversion-driven interfaces that
+                                enhance user experiences.
+                            </div>
                         </div>
                     </div>
+
                     <div class="services-block-one">
                         <div class="inner-box">
                             <div class="icon-box">
                                 <span class="icon-pen"></span>
                             </div>
-                            <a href="#">
-                                <h3>Extensive <br>Documentation</h3>
-                            </a>
-                            <div class="text">Lorem ipsum dolor amet contur adip isicing elit sed eiusm </div>
-                            <a href="#" class="read-more"><span class="icon-arrows-1"></span></a>
+                            <h3>eCommerce Solutions</h3>
+                            <div class="text">
+                                We build powerful eCommerce websites with smooth shopping experiences and secure payment
+                                integrations.
+                            </div>
                         </div>
                     </div>
+
                     <div class="services-block-one">
                         <div class="inner-box">
                             <div class="icon-box">
                                 <span class="icon-technology-1"></span>
                             </div>
-                            <a href="#">
-                                <h3>Five Star <br>Customer Support</h3>
-                            </a>
-                            <div class="text">Lorem ipsum dolor amet contur adip isicing elit sed eiusm </div>
-                            <a href="#" class="read-more"><span class="icon-arrows-1"></span></a>
+                            <h3>Maintenance & Support</h3>
+                            <div class="text">
+                                Our job doesn’t end at launch — we provide ongoing maintenance and support to keep your
+                                systems running smoothly.
+                            </div>
                         </div>
                     </div>
-                    <!-- end -->
+
                 </div>
             </div>
         </section>
+
 
         <!--Fun Facts Section-->
         <div class="fact-counter-section sp-two"
             style="background-image:url({{ asset('assets/images/background/1.jpg') }});">
             <div class="container">
-                <h1 class="section-title">Why we are best agency In boston, <br> Numbers will speak.</h1>
+                <h1 class="section-title">Why NexisDev Solution is Trusted — <br> Our Numbers Speak for Themselves.
+                </h1>
                 <div class="inner-container wow fadeInUp">
                     <div class="fact-counter">
                         <div class="row clearfix">
@@ -534,10 +552,10 @@
                             <div class="column counter-column col-md-3 col-sm-6 col-xs-12">
                                 <div class="inner">
                                     <div class="count-outer count-box">
-                                        <span class="count-text" data-speed="2000" data-stop="100">0</span><span
-                                            class="plus-icon">K</span>
+                                        <span class="count-text" data-speed="2000" data-stop="120">0</span><span
+                                            class="plus-icon">+</span>
                                     </div>
-                                    <h4 class="counter-title">Projects <br> Done</h4>
+                                    <h4 class="counter-title">Projects <br> Completed</h4>
                                 </div>
                             </div>
 
@@ -545,10 +563,10 @@
                             <div class="column counter-column col-md-3 col-sm-6 col-xs-12">
                                 <div class="inner">
                                     <div class="count-outer count-box">
-                                        <span class="count-text" data-speed="2000" data-stop="2.5">0</span><span
-                                            class="plus-icon">K</span>
+                                        <span class="count-text" data-speed="2000" data-stop="50">0</span><span
+                                            class="plus-icon">+</span>
                                     </div>
-                                    <h4 class="counter-title">Newsletter <br> Subscribe</h4>
+                                    <h4 class="counter-title">Active <br>Clients</h4>
                                 </div>
                             </div>
 
@@ -556,9 +574,10 @@
                             <div class="column counter-column col-md-3 col-sm-6 col-xs-12">
                                 <div class="inner">
                                     <div class="count-outer count-box">
-                                        <span class="count-text" data-speed="2000" data-stop="84">0</span>
+                                        <span class="count-text" data-speed="2000" data-stop="15">0</span><span
+                                            class="plus-icon">+</span>
                                     </div>
-                                    <h4 class="counter-title">Award Winning <br>Projetcs</h4>
+                                    <h4 class="counter-title">Awards <br>Achieved</h4>
                                 </div>
                             </div>
 
@@ -566,10 +585,10 @@
                             <div class="column counter-column col-md-3 col-sm-6 col-xs-12">
                                 <div class="inner">
                                     <div class="count-outer count-box">
-                                        <span class="count-text" data-speed="3000" data-stop="73">0</span><span
-                                            class="plus-icon">K</span>
+                                        <span class="count-text" data-speed="3000" data-stop="95">0</span><span
+                                            class="plus-icon">%</span>
                                     </div>
-                                    <h4 class="counter-title">Happy <br>Customers</h4>
+                                    <h4 class="counter-title">Client <br>Satisfaction</h4>
                                 </div>
                             </div>
 
@@ -578,146 +597,182 @@
                 </div>
             </div>
         </div>
+
         <!--End Fun Facts Section-->
 
-        <!-- main services -->
         <section class="main-services sp-one" id="services">
             <div class="container">
                 <div class="sec-title centered">
                     <div class="big-title">Our Services</div>
-                    <h2>Our Services</h2>
+                    <h2>What We Offer</h2>
                 </div>
                 <div class="three-item-carousel owl-carousel owl-theme owl-nav-none owl-dot-style-three">
-                    <!-- service block two -->
+
+                    <!-- Web Development -->
                     <div class="services-block-two">
                         <div class="inner-box">
                             <div class="image">
                                 <img src="{{ asset('assets/images/icons/service-1.png') }}" alt="">
                             </div>
                             <a href="#">
-                                <h3>Web Design</h3>
+                                <h3>Web Development</h3>
                             </a>
-                            <div class="text">Denouncing pleasue praising pain all born and will give you completed
-                                accounts of the system, and expound.</div>
+                            <div class="text">
+                                We craft fast, secure, and scalable websites tailored to your business needs using
+                                modern frameworks like Laravel, React, and Bootstrap.
+                            </div>
                             <a href="#" class="read-more"><span class="fa fa-long-arrow-down"></span></a>
                             <div class="overlay">
                                 <div class="image">
                                     <img src="{{ asset('assets/images/icons/service-1.png') }}" alt="">
                                 </div>
-                                <div class="text">Brand Identity, Logo Design, Layout and Print Design...</div>
+                                <div class="text">
+                                    Custom Websites, CMS Development, API Integrations, and Business Portals built for
+                                    performance and growth.
+                                </div>
                                 <a href="#" class="read-more"><span class="fa fa-long-arrow-up"></span></a>
                             </div>
                         </div>
                     </div>
-                    <!-- service block two -->
+
+                    <!-- App Development -->
                     <div class="services-block-two">
                         <div class="inner-box">
                             <div class="image">
                                 <img src="{{ asset('assets/images/icons/service-2.png') }}" alt="">
                             </div>
                             <a href="#">
-                                <h3>Graphic Design</h3>
+                                <h3>App Development</h3>
                             </a>
-                            <div class="text">Great explorer truth all master builder human happiness one rejects
-                                dislikes seds know how pursue pleasure. </div>
+                            <div class="text">
+                                Transform your ideas into powerful mobile apps with seamless performance, engaging UI,
+                                and strong backend architecture.
+                            </div>
                             <a href="#" class="read-more"><span class="fa fa-long-arrow-down"></span></a>
                             <div class="overlay">
                                 <div class="image">
                                     <img src="{{ asset('assets/images/icons/service-2.png') }}" alt="">
                                 </div>
-                                <div class="text">Brand Identity, Logo Design, Layout and Print Design...</div>
+                                <div class="text">
+                                    Android & iOS Apps, Cross-Platform Solutions, Admin Panels, and API-Driven
+                                    Applications.
+                                </div>
                                 <a href="#" class="read-more"><span class="fa fa-long-arrow-up"></span></a>
                             </div>
                         </div>
                     </div>
-                    <!-- service block two -->
+
+                    <!-- UI/UX Design -->
                     <div class="services-block-two">
                         <div class="inner-box">
                             <div class="image">
                                 <img src="{{ asset('assets/images/icons/service-3.png') }}" alt="">
                             </div>
                             <a href="#">
-                                <h3>Photography</h3>
+                                <h3>UI / UX Design</h3>
                             </a>
-                            <div class="text"> To take a trivial example which of all ever undertakes laborious
-                                physical exercise, obtain some advantage.</div>
+                            <div class="text">
+                                We design intuitive user interfaces and experiences that engage visitors and turn them
+                                into loyal customers.
+                            </div>
                             <a href="#" class="read-more"><span class="fa fa-long-arrow-down"></span></a>
                             <div class="overlay">
                                 <div class="image">
                                     <img src="{{ asset('assets/images/icons/service-3.png') }}" alt="">
                                 </div>
-                                <div class="text">Brand Identity, Logo Design, Layout and Print Design...</div>
+                                <div class="text">
+                                    Wireframing, Prototyping, Web & App Design, and Brand-Focused Visual Experiences.
+                                </div>
                                 <a href="#" class="read-more"><span class="fa fa-long-arrow-up"></span></a>
                             </div>
                         </div>
                     </div>
-                    <!-- service block two -->
+
+                    <!-- E-commerce Solutions -->
                     <div class="services-block-two">
                         <div class="inner-box">
                             <div class="image">
                                 <img src="{{ asset('assets/images/icons/service-1.png') }}" alt="">
                             </div>
                             <a href="#">
-                                <h3>Web Design</h3>
+                                <h3>E-commerce Solutions</h3>
                             </a>
-                            <div class="text">Denouncing pleasue praising pain all born and will give you completed
-                                accounts of the system, and expound.</div>
+                            <div class="text">
+                                From simple stores to complex marketplaces, we build e-commerce sites that boost sales
+                                and enhance customer experience.
+                            </div>
                             <a href="#" class="read-more"><span class="fa fa-long-arrow-down"></span></a>
                             <div class="overlay">
                                 <div class="image">
                                     <img src="{{ asset('assets/images/icons/service-1.png') }}" alt="">
                                 </div>
-                                <div class="text">Brand Identity, Logo Design, Layout and Print Design...</div>
+                                <div class="text">
+                                    Shopify, WooCommerce, Laravel E-commerce Systems, Payment Gateway Integration, and
+                                    Custom Cart Features.
+                                </div>
                                 <a href="#" class="read-more"><span class="fa fa-long-arrow-up"></span></a>
                             </div>
                         </div>
                     </div>
-                    <!-- service block two -->
+
+                    <!-- Branding & Strategy -->
                     <div class="services-block-two">
                         <div class="inner-box">
                             <div class="image">
                                 <img src="{{ asset('assets/images/icons/service-2.png') }}" alt="">
                             </div>
                             <a href="#">
-                                <h3>Graphic Design</h3>
+                                <h3>Branding & Strategy</h3>
                             </a>
-                            <div class="text">Great explorer truth all master builder human happiness one rejects
-                                dislikes seds know how pursue pleasure. </div>
+                            <div class="text">
+                                We help you stand out with a strong digital identity that connects your brand with your
+                                audience effectively.
+                            </div>
                             <a href="#" class="read-more"><span class="fa fa-long-arrow-down"></span></a>
                             <div class="overlay">
                                 <div class="image">
                                     <img src="{{ asset('assets/images/icons/service-2.png') }}" alt="">
                                 </div>
-                                <div class="text">Brand Identity, Logo Design, Layout and Print Design...</div>
+                                <div class="text">
+                                    Logo Design, Brand Guidelines, Digital Strategy, and Marketing Collaterals for
+                                    impactful branding.
+                                </div>
                                 <a href="#" class="read-more"><span class="fa fa-long-arrow-up"></span></a>
                             </div>
                         </div>
                     </div>
-                    <!-- service block two -->
+
+                    <!-- Maintenance & Support -->
                     <div class="services-block-two">
                         <div class="inner-box">
                             <div class="image">
                                 <img src="{{ asset('assets/images/icons/service-3.png') }}" alt="">
                             </div>
                             <a href="#">
-                                <h3>Photography</h3>
+                                <h3>Maintenance & Support</h3>
                             </a>
-                            <div class="text"> To take a trivial example which of all ever undertakes laborious
-                                physical exercise, obtain some advantage.</div>
+                            <div class="text">
+                                We provide long-term support, updates, and optimization to keep your systems secure and
+                                running smoothly.
+                            </div>
                             <a href="#" class="read-more"><span class="fa fa-long-arrow-down"></span></a>
                             <div class="overlay">
                                 <div class="image">
                                     <img src="{{ asset('assets/images/icons/service-3.png') }}" alt="">
                                 </div>
-                                <div class="text">Brand Identity, Logo Design, Layout and Print Design...</div>
+                                <div class="text">
+                                    Website & App Maintenance, Server Monitoring, Security Updates, and Performance
+                                    Optimization.
+                                </div>
                                 <a href="#" class="read-more"><span class="fa fa-long-arrow-up"></span></a>
                             </div>
                         </div>
                     </div>
-                    <!-- end -->
+
                 </div>
             </div>
         </section>
+
 
 
 
@@ -736,244 +791,144 @@
                     <!--Filter-->
                     <div class="filters">
                         <ul class="filter-tabs-three filter-btns clearfix">
-                            <li class="active filter" data-role="button" data-filter=".all"><span>View All </span>
+                            <li class="active filter" data-role="button" data-filter=".all"><span>All</span></li>
+                            <li class="filter" data-role="button" data-filter=".web"><span>Web Development</span>
                             </li>
-                            <li class="filter" data-role="button" data-filter=".web"><span>Web </span></li>
-                            <li class="filter" data-role="button" data-filter=".development"><span>Advertising
-                                </span></li>
-                            <li class="filter" data-role="button" data-filter=".branding"><span>Branding </span></li>
-                            <li class="filter" data-role="button" data-filter=".designing"><span>Designing </span>
+                            <li class="filter" data-role="button" data-filter=".app"><span>App Development</span>
                             </li>
-                            <li class="filter" data-role="button" data-filter=".photography"><span>Photography
-                                </span></li>
+                            <li class="filter" data-role="button" data-filter=".uiux"><span>UI/UX Design</span></li>
+                            <li class="filter" data-role="button" data-filter=".ecommerce"><span>E-Commerce</span>
+                            </li>
                         </ul>
                     </div>
                 </div>
+
                 <div class="container-fluid">
                     <!--Items Container-->
                     <div class="items-container row clearfix">
 
-
-                        <!--Default Portfolio Item-->
-                        <div class="col-md-3 col-sm-6 col-xs-12 projects-block-one masonry-item all designing">
+                        <!-- Project Item -->
+                        <div class="col-md-3 col-sm-6 col-xs-12 projects-block-one masonry-item all web">
                             <div class="inner-box">
                                 <figure class="image">
-                                    <img src="{{ asset('assets/images/gallery/1.jpg') }}" alt="image">
-                                    <div class="overlay">
-                                        <a class="lightbox-image option-btn" title="Image Caption Here"
-                                            data-fancybox-group="example-gallery" href="images/gallery/1.jpg">
-                                            <i class="fa fa-search"></i>
-                                        </a>
-                                    </div>
+                                    <img src="{{ asset('assets/images/gallery/1.jpg') }}" alt="Web Project">
                                 </figure>
                                 <div class="caption-title">
-                                    <h4><a href="project-details.html">Vintage Books</a></h4>
-                                    <span>Photography</span>
+                                    <h4><a href="#">Corporate Website</a></h4>
+                                    <span>Web Development</span>
                                 </div>
                             </div>
                         </div>
 
-                        <!--Default Portfolio Item-->
-                        <div
-                            class="col-md-3 col-sm-6 col-xs-12 projects-block-one masonry-item all development designing web">
+                        <!-- Project Item -->
+                        <div class="col-md-3 col-sm-6 col-xs-12 projects-block-one masonry-item all app">
                             <div class="inner-box">
                                 <figure class="image">
-                                    <img src="{{ asset('assets/images/gallery/2.jpg') }}" alt="image">
-                                    <div class="overlay">
-                                        <a class="lightbox-image option-btn" title="Image Caption Here"
-                                            data-fancybox-group="example-gallery" href="images/gallery/2.jpg">
-                                            <i class="fa fa-search"></i>
-                                        </a>
-                                    </div>
+                                    <img src="{{ asset('assets/images/gallery/2.jpg') }}" alt="App Project">
                                 </figure>
                                 <div class="caption-title">
-                                    <h4><a href="project-details.html">Vintage Books</a></h4>
-                                    <span>Photography</span>
+                                    <h4><a href="#">Delivery App</a></h4>
+                                    <span>App Development</span>
                                 </div>
                             </div>
                         </div>
 
-                        <!--Default Portfolio Item-->
-                        <div
-                            class="col-md-3 col-sm-6 col-xs-12 projects-block-one masonry-item all photography designing web">
+                        <!-- Project Item -->
+                        <div class="col-md-3 col-sm-6 col-xs-12 projects-block-one masonry-item all uiux">
                             <div class="inner-box">
                                 <figure class="image">
-                                    <img src="{{ asset('assets/images/gallery/3.jpg') }}" alt="image">
-                                    <div class="overlay">
-                                        <a class="lightbox-image option-btn" title="Image Caption Here"
-                                            data-fancybox-group="example-gallery" href="images/gallery/3.jpg">
-                                            <i class="fa fa-search"></i>
-                                        </a>
-                                    </div>
+                                    <img src="{{ asset('assets/images/gallery/3.jpg') }}" alt="UI/UX Design">
                                 </figure>
                                 <div class="caption-title">
-                                    <h4><a href="project-details.html">Vintage Books</a></h4>
-                                    <span>Photography</span>
+                                    <h4><a href="#">Dashboard Design</a></h4>
+                                    <span>UI/UX Design</span>
                                 </div>
                             </div>
                         </div>
 
-                        <!--Default Portfolio Item-->
-                        <div
-                            class="col-md-3 col-sm-6 col-xs-12 projects-block-one masonry-item all branding photography">
+                        <!-- Project Item -->
+                        <div class="col-md-3 col-sm-6 col-xs-12 projects-block-one masonry-item all ecommerce">
                             <div class="inner-box">
                                 <figure class="image">
-                                    <img src="{{ asset('assets/images/gallery/4.jpg') }}" alt="image">
-                                    <div class="overlay">
-                                        <a class="lightbox-image option-btn" title="Image Caption Here"
-                                            data-fancybox-group="example-gallery" href="images/gallery/4.jpg">
-                                            <i class="fa fa-search"></i>
-                                        </a>
-                                    </div>
+                                    <img src="{{ asset('assets/images/gallery/4.jpg') }}" alt="E-Commerce Project">
                                 </figure>
                                 <div class="caption-title">
-                                    <h4><a href="project-details.html">Vintage Books</a></h4>
-                                    <span>Photography</span>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!--Default Portfolio Item-->
-                        <div
-                            class="col-md-3 col-sm-6 col-xs-12 projects-block-one masonry-item all branding photography designing">
-                            <div class="inner-box">
-                                <figure class="image">
-                                    <img src="{{ asset('assets/images/gallery/5.jpg') }}" alt="image">
-                                    <div class="overlay">
-                                        <a class="lightbox-image option-btn" title="Image Caption Here"
-                                            data-fancybox-group="example-gallery" href="images/gallery/5.jpg">
-                                            <i class="fa fa-search"></i>
-                                        </a>
-                                    </div>
-                                </figure>
-                                <div class="caption-title">
-                                    <h4><a href="project-details.html">Vintage Books</a></h4>
-                                    <span>Photography</span>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!--Default Portfolio Item-->
-                        <div
-                            class="col-md-3 col-sm-6 col-xs-12 projects-block-one masonry-item all branding development photography web">
-                            <div class="inner-box">
-                                <figure class="image">
-                                    <img src="{{ asset('assets/images/gallery/6.jpg') }}" alt="image">
-                                    <div class="overlay">
-                                        <a class="lightbox-image option-btn" title="Image Caption Here"
-                                            data-fancybox-group="example-gallery" href="images/gallery/6.jpg">
-                                            <i class="fa fa-search"></i>
-                                        </a>
-                                    </div>
-                                </figure>
-                                <div class="caption-title">
-                                    <h4><a href="project-details.html">Vintage Books</a></h4>
-                                    <span>Photography</span>
-                                </div>
-                            </div>
-                        </div>
-
-
-                        <!--Default Portfolio Item-->
-                        <div
-                            class="col-md-3 col-sm-6 col-xs-12 projects-block-one masonry-item all branding photography designing">
-                            <div class="inner-box">
-                                <figure class="image">
-                                    <img src="{{ asset('assets/images/gallery/7.jpg') }}" alt="image">
-                                    <div class="overlay">
-                                        <a class="lightbox-image option-btn" title="Image Caption Here"
-                                            data-fancybox-group="example-gallery" href="images/gallery/7.jpg">
-                                            <i class="fa fa-search"></i>
-                                        </a>
-                                    </div>
-                                </figure>
-                                <div class="caption-title">
-                                    <h4><a href="project-details.html">Vintage Books</a></h4>
-                                    <span>Photography</span>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!--Default Portfolio Item-->
-                        <div
-                            class="col-md-3 col-sm-6 col-xs-12 projects-block-one masonry-item all branding development photography web">
-                            <div class="inner-box">
-                                <figure class="image">
-                                    <img src="{{ asset('assets/images/gallery/8.jpg') }}" alt="image">
-                                    <div class="overlay">
-                                        <a class="lightbox-image option-btn" title="Image Caption Here"
-                                            data-fancybox-group="example-gallery" href="images/gallery/8.jpg">
-                                            <i class="fa fa-search"></i>
-                                        </a>
-                                    </div>
-                                </figure>
-                                <div class="caption-title">
-                                    <h4><a href="project-details.html">Vintage Books</a></h4>
-                                    <span>Photography</span>
+                                    <h4><a href="#">Online Store</a></h4>
+                                    <span>E-Commerce</span>
                                 </div>
                             </div>
                         </div>
 
                     </div>
-                    <div class="load-more text-center"><a href="#" class="theme-btn btn-style-three">Load
-                            More</a></div>
+
+                    {{-- <div class="load-more text-center">
+                        <a href="#" class="theme-btn btn-style-three">Load More</a>
+                    </div> --}}
                 </div>
-
-
             </div>
-
         </section>
+
+
 
         <!-- working process -->
         <section class="working-process sp-two" id="process"
             style="background-image:url({{ asset('assets/images/background/2.jpg') }});">
             <div class="container">
                 <div class="sec-title centered light">
-                    <div class="big-title">Work Process</div>
-                    <h2>Work Process</h2>
+                    <div class="big-title">Our Process</div>
+                    <h2>How We Work</h2>
                 </div>
+
                 <div class="row">
-                    <!-- work process -->
+                    <!-- Step 1 -->
                     <div class="work-process-item col-md-3 col-sm-6">
                         <div class="inner-box">
-                            <div class="icon-box" data-toggle="tooltip" title="Research">
+                            <div class="icon-box" data-toggle="tooltip" title="Discovery">
                                 <span class="icon-computer-2"></span>
                                 <div class="overlay-icon"><span class="icon-computer-2"></span></div>
                             </div>
-                            <div class="text">Desires to obtain pain of itself, in which some great.</div>
+                            <h4 class="text-white mt-3">Discovery</h4>
+                            <div class="text">We understand your goals, target audience, and project vision.</div>
                         </div>
                     </div>
-                    <!-- work process -->
+
+                    <!-- Step 2 -->
                     <div class="work-process-item col-md-3 col-sm-6">
                         <div class="inner-box">
-                            <div class="icon-box" data-toggle="tooltip" title="Analyze">
+                            <div class="icon-box" data-toggle="tooltip" title="Planning">
                                 <span class="icon-computer-3"></span>
                                 <div class="overlay-icon"><span class="icon-computer-3"></span></div>
                             </div>
-                            <div class="text">Explain to you how this idea of denouncing pleasure.</div>
+                            <h4 class="text-white mt-3">Planning</h4>
+                            <div class="text">We plan the project structure, technology stack, and timelines.</div>
                         </div>
                     </div>
-                    <!-- work process -->
+
+                    <!-- Step 3 -->
                     <div class="work-process-item col-md-3 col-sm-6">
                         <div class="inner-box">
-                            <div class="icon-box" data-toggle="tooltip" title="Sketch & Design">
+                            <div class="icon-box" data-toggle="tooltip" title="Design & Prototype">
                                 <span class="icon-people"></span>
                                 <div class="overlay-icon"><span class="icon-people"></span></div>
                             </div>
-                            <div class="text">Occur in which toil & pain can procuresome great.</div>
+                            <h4 class="text-white mt-3">Design</h4>
+                            <div class="text">Our creative team crafts clean, user-centered designs and prototypes.
+                            </div>
                         </div>
                     </div>
-                    <!-- work process -->
+
+                    <!-- Step 4 -->
                     <div class="work-process-item col-md-3 col-sm-6">
                         <div class="inner-box">
-                            <div class="icon-box" data-toggle="tooltip" title="Develop & Test">
+                            <div class="icon-box" data-toggle="tooltip" title="Development & Launch">
                                 <span class="icon-technology-2"></span>
                                 <div class="overlay-icon"><span class="icon-technology-2"></span></div>
                             </div>
-                            <div class="text"> To take a trivial example, which some advantages.</div>
+                            <h4 class="text-white mt-3">Development</h4>
+                            <div class="text">We build, test, and deploy your project with scalable, clean code.
+                            </div>
                         </div>
                     </div>
-                    <!-- end -->
                 </div>
             </div>
         </section>
@@ -983,66 +938,113 @@
         <!-- partner -->
         <section class="partner sp-two" id="technologies">
             <div class="container">
-                <div class="row">
+                <div class="row align-items-center">
+
                     <div class="col-md-4">
-                        <!-- sec-title -->
+                        <!-- section title -->
                         <div class="sec-title">
-                            <h2>Partners Behind our Success</h2>
+                            <div class="big-title">Our Technologies</div>
+                            <h2>Technologies We Work With</h2>
                         </div>
-                        <div class="text">Must explain to you how all this mistaken idea of denouncing pleasure and
-                            praising pain was born and I will give you a complete account.</div>
-                        <div class="link-btn mb-30"><a href="#">Join With us</a></div>
+                        <div class="text">
+                            We use the latest and most reliable technologies to build scalable, secure, and
+                            high-performance web applications.
+                            From backend frameworks to modern front-end tools — we’ve got you covered.
+                        </div>
+                        <div class="link-btn mb-30">
+                            <a href="#contact" class="theme-btn btn-style-three">Let’s Build Together</a>
+                        </div>
                     </div>
+
                     <div class="col-md-8">
                         <div class="partner-logo">
-                            <div class="outer-box clearfix">
+                            <div class="outer-box clearfix text-center">
+                                <!-- Backend -->
                                 <div class="col-sm-3 col-xs-6 partner-column">
-                                    <div class="image"><img
-                                            src="{{ asset('assets/images/resource/partner-1.jpg') }}" alt="">
+                                    <div class="image">
+                                        <img src="{{ asset('assets/images/tech/laravel.png') }}" alt="Laravel">
+                                        <p>Laravel</p>
                                     </div>
                                 </div>
                                 <div class="col-sm-3 col-xs-6 partner-column">
-                                    <div class="image"><img
-                                            src="{{ asset('assets/images/resource/partner-2.jpg') }}" alt="">
+                                    <div class="image">
+                                        <img src="{{ asset('assets/images/tech/php.png') }}" alt="PHP">
+                                        <p>PHP</p>
                                     </div>
                                 </div>
                                 <div class="col-sm-3 col-xs-6 partner-column">
-                                    <div class="image"><img
-                                            src="{{ asset('assets/images/resource/partner-3.jpg') }}" alt="">
+                                    <div class="image">
+                                        <img src="{{ asset('assets/images/tech/mysql.png') }}" alt="MySQL">
+                                        <p>MySQL</p>
                                     </div>
                                 </div>
                                 <div class="col-sm-3 col-xs-6 partner-column">
-                                    <div class="image"><img
-                                            src="{{ asset('assets/images/resource/partner-4.jpg') }}" alt="">
+                                    <div class="image">
+                                        <img src="{{ asset('assets/images/tech/nodejs.png') }}" alt="Node.js">
+                                        <p>Node.js</p>
+                                    </div>
+                                </div>
+
+                                <!-- Frontend -->
+                                <div class="col-sm-3 col-xs-6 partner-column">
+                                    <div class="image">
+                                        <img src="{{ asset('assets/images/tech/vuejs.png') }}" alt="Vue.js">
+                                        <p>Vue.js</p>
                                     </div>
                                 </div>
                                 <div class="col-sm-3 col-xs-6 partner-column">
-                                    <div class="image"><img
-                                            src="{{ asset('assets/images/resource/partner-5.jpg') }}" alt="">
+                                    <div class="image">
+                                        <img src="{{ asset('assets/images/tech/react.png') }}" alt="React">
+                                        <p>React</p>
                                     </div>
                                 </div>
                                 <div class="col-sm-3 col-xs-6 partner-column">
-                                    <div class="image"><img
-                                            src="{{ asset('assets/images/resource/partner-6.jpg') }}" alt="">
+                                    <div class="image">
+                                        <img src="{{ asset('assets/images/tech/bootstrap.png') }}" alt="Bootstrap">
+                                        <p>Bootstrap</p>
                                     </div>
                                 </div>
                                 <div class="col-sm-3 col-xs-6 partner-column">
-                                    <div class="image"><img
-                                            src="{{ asset('assets/images/resource/partner-7.jpg') }}" alt="">
+                                    <div class="image">
+                                        <img src="{{ asset('assets/images/tech/tailwind.png') }}" alt="Tailwind CSS">
+                                        <p>Tailwind CSS</p>
+                                    </div>
+                                </div>
+
+                                <!-- Tools -->
+                                <div class="col-sm-3 col-xs-6 partner-column">
+                                    <div class="image">
+                                        <img src="{{ asset('assets/images/tech/git.png') }}" alt="Git">
+                                        <p>Git</p>
                                     </div>
                                 </div>
                                 <div class="col-sm-3 col-xs-6 partner-column">
-                                    <div class="image"><img
-                                            src="{{ asset('assets/images/resource/partner-8.jpg') }}" alt="">
+                                    <div class="image">
+                                        <img src="{{ asset('assets/images/tech/figma.png') }}" alt="Figma">
+                                        <p>Figma</p>
+                                    </div>
+                                </div>
+                                <div class="col-sm-3 col-xs-6 partner-column">
+                                    <div class="image">
+                                        <img src="{{ asset('assets/images/tech/api.png') }}" alt="REST API">
+                                        <p>REST APIs</p>
+                                    </div>
+                                </div>
+                                <div class="col-sm-3 col-xs-6 partner-column">
+                                    <div class="image">
+                                        <img src="{{ asset('assets/images/tech/github.png') }}" alt="GitHub">
+                                        <p>GitHub</p>
                                     </div>
                                 </div>
                                 <!-- end -->
                             </div>
                         </div>
                     </div>
+
                 </div>
             </div>
         </section>
+
         <!-- testimonial -->
         <section class="testimonial sp-one" id="testimonials"
             style="background-image:url({{ asset('assets/images/background/3.jpg') }});">
@@ -1100,7 +1102,7 @@
         </div>
 
         <!-- our team -->
-        <section class="our-team sp-two" id="team">
+        {{-- <section class="our-team sp-two" id="team">
             <div class="container">
                 <!-- sec title -->
                 <div class="sec-title centered">
@@ -1205,7 +1207,7 @@
                     <!-- end -->
                 </div>
             </div>
-        </section>
+        </section> --}}
 
         <!-- pricing -->
 
@@ -1214,9 +1216,8 @@
         <!-- map section -->
         <section class="map-section" id="contact">
             <div class="home-google-map">
-                <div class="google-map" id="contact-google-map" data-map-lat="40.700843"
-                    data-map-lng="-74.004012" data-icon-path="images/icons/map-marker.png"
-                    data-map-title="Chester" data-map-zoom="11">
+                <div class="google-map" id="contact-google-map" data-map-lat="40.700843" data-map-lng="-74.004012"
+                    data-icon-path="images/icons/map-marker.png" data-map-title="Chester" data-map-zoom="11">
                 </div>
             </div>
             <div class="container">
@@ -1253,8 +1254,8 @@
                         </div>
                         <div class="contact-section-btn">
                             <div class="form-group style-two ml-50 mr-50">
-                                <input id="form_botcheck" name="form_botcheck" class="form-control"
-                                    type="hidden" value="">
+                                <input id="form_botcheck" name="form_botcheck" class="form-control" type="hidden"
+                                    value="">
                                 <button class="theme-btn btn-style-fifteen w-100" type="submit"
                                     data-loading-text="Please wait...">send message</button>
                             </div>
@@ -1293,17 +1294,26 @@
         <!-- main footer -->
         <section class="main-footer">
             <div class="container">
-                <div class="container-box">
-                    <div class="copyright">
-                        <div class="text">© 2012-2018 <a href="#">Della</a> by <a
-                                href="#">Themekalia</a>. All rights reserved.</div>
+                <div class="container-box d-flex justify-content-between align-items-center flex-wrap">
+
+                    <div class="copyright text-center">
+                        <div class="text">
+                            © {{ date('Y') }} <strong>Nexis Dev Solution</strong>
+                             {{-- — Crafted with ❤️ by --}}
+                            {{-- <a href="#" target="_blank">Zain Abbas</a> --}}
+                            . All rights reserved.
+                        </div>
                     </div>
+
                     <!--Scroll to top-->
-                    <div class="scroll-to-top scroll-to-target" data-target="html"><span
-                            class="icon-arrow"></span>Move to Top</div>
+                    <div class="scroll-to-top scroll-to-target" data-target="html">
+                        <span class="icon-arrow"></span>Back to Top
+                    </div>
+
                 </div>
             </div>
         </section>
+
 
 
     </div>
