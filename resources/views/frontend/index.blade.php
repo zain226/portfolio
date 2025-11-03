@@ -20,6 +20,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
     <link href="{{ asset('assets/css/responsive.css') }}" rel="stylesheet">
+    <style>
+        .logo-img {
+            height: 40px;
+        }
+    </style>
 </head>
 
 <body>
@@ -39,8 +44,8 @@
                     <div class="outer-container clearfix">
                         <!--Logo Box-->
                         <div class="logo-box">
-                            <div class="logo"><a href="index.html"><img src="{{ asset('assets/images/logo.png') }}"
-                                        alt=""></a></div>
+                            <div class="logo"><a href="index.html"><img src="{{ asset('assets/images/nexlogo.svg') }}"
+                                        alt="" class="logo-img"></a></div>
                         </div>
 
                         <!--Nav Outer-->
@@ -64,9 +69,9 @@
                                         <li><a href="#about">About</a></li>
                                         <li><a href="#services">Services</a></li>
                                         <li><a href="#projects">Projects</a></li>
-                                        <li><a href="#process">Process</a></li>
+                                        {{-- <li><a href="#process">Process</a></li> --}}
                                         <li><a href="#technologies">Technologies</a></li>
-                                        <li><a href="#testimonials">Testimonials</a></li>
+                                        {{-- <li><a href="#testimonials">Testimonials</a></li> --}}
                                         <li><a href="#contact">Contact</a></li>
 
                                     </ul>
@@ -82,8 +87,10 @@
                                 <li><a href="#"><span class="fa fa-facebook"></span></a></li>
                                 <li><a href="#"><span class="fa fa-twitter"></span></a></li>
                             </ul>
-                            <div class="link"><a href="javascript:;" class="theme-btn btn-style-three">Schedule
-                                    Now</a></div>
+                            <div class="link">
+                                {{-- <a href="javascript:;" class="theme-btn btn-style-three">Schedule
+                                    Now</a> --}}
+                            </div>
                         </div>
 
                     </div>
@@ -168,6 +175,7 @@
                                 <a href="#about" class="theme-btn btn-style-one">About Us</a>
                             </div>
 
+
                         </li>
 
                         <li data-description="Slide Description" data-easein="default" data-easeout="default"
@@ -180,7 +188,7 @@
                             data-transition="parallaxvertical">
                             <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgparallax="10"
                                 data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina=""
-                                src="{{ asset('assets/images/main-slider/image-4.jpg') }}">
+                                src="{{ asset('assets/images/main-slider/image-5.jpg') }}">
 
                             <div class="tp-caption " data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                                 data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on"
@@ -247,7 +255,7 @@
                             data-transition="parallaxvertical">
                             <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgparallax="10"
                                 data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina=""
-                                src="{{ asset('assets/images/main-slider/image-4.jpg') }}">
+                                src="{{ asset('assets/images/main-slider/image-6.jpg') }}">
 
                             <div class="tp-caption " data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                                 data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on"
@@ -307,7 +315,10 @@
                     </ul>
 
                 </div>
+
+
             </div>
+
         </section>
         <!--End Main Slider-->
 
@@ -327,7 +338,7 @@
                             <div class="row">
                                 <div class="col-md-6 right-column">
                                     <div class="img-box mb-30">
-                                        <img src="{{ asset('assets/images/resource/about.jpg') }}" alt="">
+                                        <img src="{{ asset('assets/images/resource/about1.jpg') }}" alt="">
                                     </div>
                                 </div>
                                 <div class="col-md-6 left-column">
@@ -355,7 +366,7 @@
                             <div class="row">
                                 <div class="col-md-6 right-column">
                                     <div class="img-box mb-30">
-                                        <img src="{{ asset('assets/images/resource/about.jpg') }}" alt="">
+                                        <img src="{{ asset('assets/images/resource/about2.jpg') }}" alt="">
                                     </div>
                                 </div>
                                 <div class="col-md-6 left-column">
@@ -382,7 +393,7 @@
                             <div class="row">
                                 <div class="col-md-6 right-column">
                                     <div class="img-box mb-30">
-                                        <img src="{{ asset('assets/images/resource/about.jpg') }}" alt="">
+                                        <img src="{{ asset('assets/images/resource/about4.jpg') }}" alt="">
                                     </div>
                                 </div>
                                 <div class="col-md-6 left-column">
@@ -540,7 +551,7 @@
 
         <!--Fun Facts Section-->
         <div class="fact-counter-section sp-two"
-            style="background-image:url({{ asset('assets/images/background/1.jpg') }});">
+            style="background-image:url({{ asset('assets/images/background/trusted.jpg') }});">
             <div class="container">
                 <h1 class="section-title">Why NexisDev Solution is Trusted — <br> Our Numbers Speak for Themselves.
                 </h1>
@@ -871,8 +882,8 @@
 
 
         <!-- working process -->
-        <section class="working-process sp-two" id="process"
-            style="background-image:url({{ asset('assets/images/background/2.jpg') }});">
+        {{-- <section class="working-process sp-two" id="process"
+            style="background-image:url({{ asset('assets/images/background/process.jpg') }});">
             <div class="container">
                 <div class="sec-title centered light">
                     <div class="big-title">Our Process</div>
@@ -931,7 +942,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> --}}
 
 
 
@@ -1046,7 +1057,7 @@
         </section>
 
         <!-- testimonial -->
-        <section class="testimonial sp-one" id="testimonials"
+        {{-- <section class="testimonial sp-one" id="testimonials"
             style="background-image:url({{ asset('assets/images/background/3.jpg') }});">
             <div class="container">
                 <div class="single-item-carousel owl-carousel owl-theme owl-nav-none owl-dot-style-three">
@@ -1095,7 +1106,7 @@
                     <!-- end -->
                 </div>
             </div>
-        </section>
+        </section> --}}
 
         <div class="container">
             <div class="border-bottom"></div>
@@ -1299,7 +1310,7 @@
                     <div class="copyright text-center">
                         <div class="text">
                             © {{ date('Y') }} <strong>Nexis Dev Solution</strong>
-                             {{-- — Crafted with ❤️ by --}}
+                            {{-- — Crafted with ❤️ by --}}
                             {{-- <a href="#" target="_blank">Zain Abbas</a> --}}
                             . All rights reserved.
                         </div>

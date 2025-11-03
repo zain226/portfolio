@@ -1,17 +1,17 @@
 /* Bogor Appy - App Landing HTML Template*/
 
 @media only screen and (max-width: 2000px){
-	
+
 	.page-wrapper{
 		overflow:hidden;
 	}
 }
 
 @media only screen and (max-width: 1600px){
-	.main-header .main-box .outer-container {
+	/* .main-header .main-box .outer-container {
 		display: block;
-	}
-	.main-header .main-box .logo-box {
+	} */
+	/* .main-header .main-box .logo-box {
 		position: relative;
 		left: 40px;
 	}
@@ -26,7 +26,7 @@
 	}
 	.main-menu {
 		margin-left: 40px;
-	}
+	} */
 }
 
 @media only screen and (max-width: 1400px){
@@ -41,19 +41,19 @@
 @media only screen and (max-width: 1340px){
 	.main-menu .navigation > li:last-child > ul{
 		left:auto;
-		right:0px;	
+		right:0px;
 	}
 }
 
 @media only screen and (max-width: 1140px){
-	
+
 	.main-slider span.border,
 	.main-slider h2{
 		font-size:40px !important;
-		line-height:40px;	
+		line-height:40px;
 	}
-	
-	
+
+
 }
 
 @media only screen and (min-width: 992px){
@@ -74,15 +74,15 @@
 }
 
 @media only screen and (max-width: 1023px){
-	
+
 	.main-menu .navigation > li{
 		margin-left:10px;
 	}
-	
+
 	.main-header .nav-toggler{
 		display:block;
 	}
-	
+
 }
 
 @media only screen and (max-width: 991px){
@@ -117,7 +117,7 @@
 }
 
 @media only screen and (max-width: 767px){
-	
+
 	.header-upper .logo-outer {
 		position:relative;
 	}
@@ -143,23 +143,23 @@
 		display: block;
 		z-index: 999;
 	}
-	
-	
+
+
 	.sec-title h2{
-		font-size:26px;	
+		font-size:26px;
 	}
-	
+
 	.main-header .nav-outer{
 		position:relative;
 		width:100%;
-		margin-top:-54px;
-		top:2px;	
+		/* margin-top:-54px; */
+		top:12px;
 	}
-	
+
 	.main-header .nav-outer .main-menu{
-		width:100%;	
+		width:100%;
 	}
-	
+
 	.main-menu .collapse {
 	   max-height:300px;
 		overflow:auto;
@@ -175,7 +175,7 @@
 		border-radius:3px;
 		box-shadow:none;
    }
-   
+
 	.main-menu .collapse.in,
 	.main-menu .collapsing{
 		padding:10px 0px 0px;
@@ -186,9 +186,9 @@
 		-webkit-border-radius:3px;
 		-o-border-radius:3px;
 		border-radius:3px;
-		box-shadow:none;	
+		box-shadow:none;
 	}
-	
+
 	.main-menu .navbar-header{
 		position:relative;
 		float:none;
@@ -198,7 +198,7 @@
 		padding: 0px 0px 25px;
 		right:0px;
 	}
-	
+
 	.main-menu .navbar-header .navbar-toggle{
 		display:inline-block;
 		z-index:20;
@@ -208,38 +208,38 @@
 		border-radius:0px;
 		background:#fb2f4e;
 	}
-	
+
 	.main-menu .navbar-header .navbar-toggle .icon-bar{
-		background:#ffffff;	
+		background:#ffffff;
 	}
-	
+
 	.main-menu .navbar-collapse > .navigation{
 		float:none !important;
 		margin:0px !important;
 		width:100% !important;
-		
+
 		border:1px solid #ffffff;
 		border-top:none;
 	}
-	
+
 	.main-menu .navbar-collapse > .navigation > li{
 		margin:0px !important;
 		float:none !important;
 		padding:0px !important;
 		width:100%;
 	}
-	
+
 	.main-menu .navigation > li > a,
 	.main-menu .navigation > li > ul:before{
-		border:none;	
+		border:none;
 	}
-	
+
 	.main-menu .navbar-collapse > .navigation > li > a{
 		padding:10px 10px !important;
 		border:none !important;
 		font-size:15px !important;
 	}
-	
+
 	.main-menu .navigation li.dropdown > a:after,
 	.main-menu .navigation > li.dropdown > a:before,
 	.main-menu .navigation > li > ul > li > a::before,
@@ -249,7 +249,7 @@
 		font-size:16px;
 		display:none !important;
 	}
-	
+
 	.main-menu .navbar-collapse > .navigation > li > ul,
 	.main-menu .navbar-collapse > .navigation > li > ul > li > ul{
 		position:relative;
@@ -277,12 +277,12 @@
 		-o-transition:none !important;
 		-moz-transition:none !important;
 	}
-		
+
 	.main-menu .navbar-collapse > .navigation > li > ul,
 	.main-menu .navbar-collapse > .navigation > li > ul > li > ul{
-		border-top:1px solid rgba(255,255,255,1) !important;	
+		border-top:1px solid rgba(255,255,255,1) !important;
 	}
-	
+
 	.main-menu .navbar-collapse > .navigation > li,
 	.main-menu .navbar-collapse > .navigation > li > ul > li,
 	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li{
@@ -293,16 +293,16 @@
 		left:0px !important;
 		visibility:visible !important;
 	}
-	
+
 	.main-menu .navbar-collapse > .navigation > li > ul > li:first-child,
 	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li:first-child{
-		border-top:none !important;	
+		border-top:none !important;
 	}
-	
+
 	.main-menu .navbar-collapse > .navigation > li:first-child{
-		border:none;	
+		border:none;
 	}
-	
+
 	.main-menu .navbar-collapse > .navigation > li > a,
 	.main-menu .navbar-collapse > .navigation > li > ul > li > a,
 	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li > a{
@@ -312,13 +312,13 @@
 		background:#333333;
 		text-align:left;
 	}
-	
+
 	.main-menu .navbar-collapse > .navigation > li > a:hover,
 	.main-menu .navbar-collapse > .navigation > li > a:active,
 	.main-menu .navbar-collapse > .navigation > li > a:focus{
 		background:#fb2f4e;
 	}
-	
+
 	.main-menu .navbar-collapse > .navigation > li:hover > a,
 	.main-menu .navbar-collapse > .navigation > li > ul > li:hover > a,
 	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li:hover > a,
@@ -328,21 +328,21 @@
 		background:#333333;
 		color:#ffffff !important;
 	}
-	
+
 	.main-menu .navbar-collapse > .navigation li.dropdown .dropdown-btn,
 	.header-style-two .nav-outer .btn-outer{
 		display:block;
 	}
-	
+
 	.main-menu .navbar-collapse > .navigation li.dropdown:after,
 	.main-menu .navigation > li > ul:before,
 	.main-slider .bordered-layer,
 	.featured-block-two .inner-box .number,
 	.testimonial-section .owl-nav,
 	.main-slider .text br{
-		display:none !important;	
+		display:none !important;
 	}
-	
+
 	.fixed-header .info-options,
 	.testimonial-section .owl-carousel{
 		padding:0px !important;
@@ -351,29 +351,29 @@
 	.main-slider span.border,
 	.main-slider h2{
 		font-size:30px !important;
-		line-height:1.4em;	
+		line-height:1.4em;
 	}
 
 	.progress-levels .progress-box .inner .count-parcentage {
 		right: -50px;
 	}
-	
 
-	
+
+
 }
 
 @media only screen and (max-width: 599px){
-	
+
 	.main-header .search-box-outer .dropdown-menu{
 		left:0px;
 	}
-	
+
 	.main-slider span.border,
 	.main-slider h2{
 		font-size:20px !important;
-		line-height:2em;	
+		line-height:2em;
 	}
-	
+
 	.main-slider .text{
 		font-size:11px;
 	}
@@ -394,13 +394,16 @@
 	    top: 0;
 	    margin-top: 20px;
 	}
-	
+
 }
 
 @media only screen and (max-width: 479px) {
-	
+
 	.main-header .nav-toggler{
 		top:0px;
 	}
-	
+
 }
+
+
+
