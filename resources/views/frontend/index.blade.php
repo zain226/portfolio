@@ -22,7 +22,12 @@
     <link href="{{ asset('assets/css/responsive.css') }}" rel="stylesheet">
     <style>
         .logo-img {
-            height: 40px;
+            height: 50px;
+        }
+
+        .partner-column img {
+            width: 131px;
+            height: 111px;
         }
     </style>
 </head>
@@ -31,14 +36,8 @@
 
 
     <div class="page-wrapper">
-
-        <!-- Preloader -->
         <div class="preloader"></div>
-
-        <!-- Main Header-->
         <header class="main-header header-style-2 fixed-header-two">
-
-            <!-- Main Box -->
             <div class="main-box">
                 <div class="container">
                     <div class="outer-container clearfix">
@@ -85,7 +84,7 @@
                         <div class="info-options">
                             <ul class="social-icon-one">
                                 <li><a href="#"><span class="fa fa-facebook"></span></a></li>
-                                <li><a href="#"><span class="fa fa-twitter"></span></a></li>
+                                <li><a href="#"><span class="fa fa-linkedin"></span></a></li>
                             </ul>
                             <div class="link">
                                 {{-- <a href="javascript:;" class="theme-btn btn-style-three">Schedule
@@ -118,7 +117,7 @@
                             data-transition="parallaxvertical">
                             <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgparallax="10"
                                 data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina=""
-                                src="{{ asset('assets/images/main-slider/image-4.jpg') }}">
+                                src="{{ asset('assets/images/main-slider/image-41.jpg') }}">
 
 
                             <div class="tp-caption " data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
@@ -188,7 +187,7 @@
                             data-transition="parallaxvertical">
                             <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgparallax="10"
                                 data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina=""
-                                src="{{ asset('assets/images/main-slider/image-5.jpg') }}">
+                                src="{{ asset('assets/images/main-slider/image-51.jpg') }}">
 
                             <div class="tp-caption " data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                                 data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on"
@@ -255,7 +254,7 @@
                             data-transition="parallaxvertical">
                             <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgparallax="10"
                                 data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina=""
-                                src="{{ asset('assets/images/main-slider/image-6.jpg') }}">
+                                src="{{ asset('assets/images/main-slider/image-61.jpg') }}">
 
                             <div class="tp-caption " data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                                 data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on"
@@ -970,87 +969,85 @@
                     <div class="col-md-8">
                         <div class="partner-logo">
                             <div class="outer-box clearfix text-center">
+
                                 <!-- Backend -->
                                 <div class="col-sm-3 col-xs-6 partner-column">
                                     <div class="image">
-                                        <img src="{{ asset('assets/images/tech/laravel.png') }}" alt="Laravel">
+                                        <img src="https://img.icons8.com/ios-filled/100/laravel.png" alt="Laravel"
+                                            width="50">
                                         <p>Laravel</p>
                                     </div>
                                 </div>
                                 <div class="col-sm-3 col-xs-6 partner-column">
                                     <div class="image">
-                                        <img src="{{ asset('assets/images/tech/php.png') }}" alt="PHP">
+                                        <img src="https://img.icons8.com/ios-filled/100/php-logo.png" alt="PHP"
+                                            width="50">
                                         <p>PHP</p>
                                     </div>
                                 </div>
                                 <div class="col-sm-3 col-xs-6 partner-column">
                                     <div class="image">
-                                        <img src="{{ asset('assets/images/tech/mysql.png') }}" alt="MySQL">
+                                        <img src="https://img.icons8.com/ios-filled/100/mysql-logo.png" alt="MySQL"
+                                            width="50">
                                         <p>MySQL</p>
                                     </div>
                                 </div>
-                                <div class="col-sm-3 col-xs-6 partner-column">
-                                    <div class="image">
-                                        <img src="{{ asset('assets/images/tech/nodejs.png') }}" alt="Node.js">
-                                        <p>Node.js</p>
-                                    </div>
-                                </div>
 
-                                <!-- Frontend -->
                                 <div class="col-sm-3 col-xs-6 partner-column">
                                     <div class="image">
-                                        <img src="{{ asset('assets/images/tech/vuejs.png') }}" alt="Vue.js">
-                                        <p>Vue.js</p>
-                                    </div>
-                                </div>
-                                <div class="col-sm-3 col-xs-6 partner-column">
-                                    <div class="image">
-                                        <img src="{{ asset('assets/images/tech/react.png') }}" alt="React">
+                                        <img src="https://img.icons8.com/ios-filled/100/react-native.png"
+                                            alt="React" width="50">
                                         <p>React</p>
                                     </div>
                                 </div>
                                 <div class="col-sm-3 col-xs-6 partner-column">
                                     <div class="image">
-                                        <img src="{{ asset('assets/images/tech/bootstrap.png') }}" alt="Bootstrap">
+                                        <img src="https://icons.getbootstrap.com/assets/img/icons-hero.png"
+                                            alt="Bootstrap" width="50">
                                         <p>Bootstrap</p>
                                     </div>
                                 </div>
                                 <div class="col-sm-3 col-xs-6 partner-column">
                                     <div class="image">
-                                        <img src="{{ asset('assets/images/tech/tailwind.png') }}" alt="Tailwind CSS">
-                                        <p>Tailwind CSS</p>
+                                        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
+                                            alt="Tailwind" width="50">
+                                        <p>Tailwind</p>
                                     </div>
                                 </div>
 
                                 <!-- Tools -->
                                 <div class="col-sm-3 col-xs-6 partner-column">
                                     <div class="image">
-                                        <img src="{{ asset('assets/images/tech/git.png') }}" alt="Git">
+                                        <img src="https://img.icons8.com/ios-filled/100/git.png" alt="Git"
+                                            width="50">
                                         <p>Git</p>
                                     </div>
                                 </div>
                                 <div class="col-sm-3 col-xs-6 partner-column">
                                     <div class="image">
-                                        <img src="{{ asset('assets/images/tech/figma.png') }}" alt="Figma">
+                                        <img src="https://img.icons8.com/ios-filled/100/figma.png" alt="Figma"
+                                            width="50">
                                         <p>Figma</p>
                                     </div>
                                 </div>
                                 <div class="col-sm-3 col-xs-6 partner-column">
                                     <div class="image">
-                                        <img src="{{ asset('assets/images/tech/api.png') }}" alt="REST API">
+                                        <img src="https://img.icons8.com/ios-filled/100/api.png" alt="REST API"
+                                            width="50">
                                         <p>REST APIs</p>
                                     </div>
                                 </div>
                                 <div class="col-sm-3 col-xs-6 partner-column">
                                     <div class="image">
-                                        <img src="{{ asset('assets/images/tech/github.png') }}" alt="GitHub">
+                                        <img src="https://img.icons8.com/ios-filled/100/github.png" alt="GitHub"
+                                            width="50">
                                         <p>GitHub</p>
                                     </div>
                                 </div>
-                                <!-- end -->
                             </div>
                         </div>
                     </div>
+
 
                 </div>
             </div>

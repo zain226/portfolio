@@ -114,6 +114,20 @@
 		font-size: 50px;
 		top: -12px;
 	}
+
+    	.main-menu .navbar-header .navbar-toggle{
+		display:inline-block;
+		z-index:20;
+		border:1px solid #fb2f4e;
+		float:none;
+		margin:0px 0px 0px 0px;
+		border-radius:0px;
+		background:#fb2f4e;
+	}
+
+	.main-menu .navbar-header .navbar-toggle .icon-bar{
+		background:#ffffff;
+	}
 }
 
 @media only screen and (max-width: 767px){
@@ -126,18 +140,13 @@
 		margin-left: 0px;
 	}
 
-	.main-header .main-box .logo-box .logo {
-	    padding: 20px 0px 25px;
-	    padding-right: 10px;
-	}
+
 
 	.main-header .main-box .logo-box {
 		left: 0;
 	}
 
-	.main-header .info-options {
-		display: none;
-	}
+
 
 	.main-header.header-style-3 .info-options {
 		display: block;
@@ -149,12 +158,6 @@
 		font-size:26px;
 	}
 
-	.main-header .nav-outer{
-		position:relative;
-		width:100%;
-		/* margin-top:-54px; */
-		top:12px;
-	}
 
 	.main-header .nav-outer .main-menu{
 		width:100%;
@@ -189,29 +192,9 @@
 		box-shadow:none;
 	}
 
-	.main-menu .navbar-header{
-		position:relative;
-		float:none;
-		display:block;
-		text-align:right;
-		width:100%;
-		padding: 0px 0px 25px;
-		right:0px;
-	}
 
-	.main-menu .navbar-header .navbar-toggle{
-		display:inline-block;
-		z-index:20;
-		border:1px solid #fb2f4e;
-		float:none;
-		margin:0px 0px 0px 0px;
-		border-radius:0px;
-		background:#fb2f4e;
-	}
 
-	.main-menu .navbar-header .navbar-toggle .icon-bar{
-		background:#ffffff;
-	}
+
 
 	.main-menu .navbar-collapse > .navigation{
 		float:none !important;
@@ -407,3 +390,41 @@
 
 
 
+@media only screen and (min-width: 992px){
+  .navbar-collapse.collapse {
+    display: block !important;
+    height: auto !important;
+    padding-bottom: 0;
+    overflow: visible !important;
+  }
+}
+@media only screen and (max-width: 991px){
+  .navbar-collapse.collapse {
+    display: none !important;
+  }
+  .main-header .info-options {
+		display: none;
+	}
+
+    .main-header .main-box .logo-box .logo {
+	    padding: 20px 0px 25px;
+	    padding-right: 10px;
+	}
+
+    .main-menu .navbar-header{
+		position:relative;
+		float:none;
+		display:block;
+		text-align:right;
+		width:100%;
+		padding: 0px 0px 25px;
+		right:0px;
+	}
+
+	.main-header .nav-outer{
+		position:relative;
+		width:100%;
+		/* margin-top:-54px; */
+		top:12px;
+	}
+}
