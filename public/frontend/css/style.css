@@ -1405,7 +1405,8 @@ section.pricing-area {
 /* ------------- Custom Project Section ------------- */
 
 .custom-projects {
-    background-color: rgb(251, 251, 251);
+    /* background-color: rgb(251, 251, 251); */
+    background-color: #151C4C;
     padding-bottom: 19px;
     position: relative;
     overflow: hidden;
@@ -1414,8 +1415,9 @@ section.pricing-area {
 .custom-projects h1 {
     font-size: 35px;
     font-family: 'Poppins', sans-serif;
-    color: rgb(30, 42, 120);
+    /* color: rgb(30, 42, 120); */
     font-weight: 700;
+    color:white;
 }
 
 .custom-project-button button {
@@ -2387,4 +2389,9 @@ section.member-skills {
     border-color: transparent transparent #fff #fff;
     transform: rotate(-45deg);
     box-shadow: -6px 6px 6px rgb(0, 0, 0, 0.16);
+}
+
+
+.custom-projects .section-heading p {
+  color: white !important;
 }
