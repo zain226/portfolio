@@ -112,13 +112,13 @@
         visibility: hidden;
     }
     .banner-image {
-        background-image: url('../images/banner/home_banner.png');
+        /* background-image: url('../images/banner/home_banner.png'); */
         height: 74%;
         background-position-x: 68%;
         background-size: cover;
     }
     section.home-02-banner .banner-image {
-        background-image: url(../images/banner/02_home_banner_img.png);
+        /* background-image: url(../images/banner/02_home_banner_img.png); */
         width: 100%;
     }
     section.home-02-banner .banner-image .banner-video-player::before {
