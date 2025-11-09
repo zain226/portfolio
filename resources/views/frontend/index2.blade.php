@@ -86,7 +86,7 @@
             <div class="row justify-content-between">
                 <div class="col-2 d-flex align-items-center">
                     <a href="{{ route('home') }}"><img class="logo"
-                            src="{{ asset('frontend/images/logo/nexlogo.svg') }}" alt="Habu"></a>
+                            src="{{ asset('frontend/images/logo/nexlogo.svg') }}" alt="nexis"></a>
                 </div>
                 <div class="col-10 d-flex align-items-center">
                     <nav id="mobile-menu" class="menu-area d-lg-flex align-items-center ml-auto">
@@ -111,7 +111,7 @@
 
         <div class="shape-03 text-center">
             <img src="{{ asset('frontend/images/shapes/shape-03.png') }}"
-                class="wow animate__animated animate__fadeInDown animate__delay-1s" alt="Habu">
+                class="wow animate__animated animate__fadeInDown animate__delay-1s" alt="nexis">
         </div>
 
         <div class="home-slider">
@@ -133,12 +133,12 @@
                         </div>
                         <div class="col-xl-5 col-lg-6 col-md-6">
                             <div class="banner-image">
-                                <img src="{{ asset('frontend/images/banner/home_banner.jpg') }}" alt="Habu">
+                                <img src="{{ asset('frontend/images/banner/home_banner.jpg') }}" class="w-100" alt="nexis">
                                 <div class="shape-0">
-                                    <img src="{{ asset('frontend/images/shapes/shape-0.png') }}" alt="Habu">
+                                    <img src="{{ asset('frontend/images/shapes/shape-0.png') }}" alt="nexis">
                                 </div>
                                 <div class="shape-02">
-                                    <img src="{{ asset('frontend/images/shapes/shape-02.png') }}" alt="Habu">
+                                    <img src="{{ asset('frontend/images/shapes/shape-02.png') }}" alt="nexis">
                                 </div>
                             </div>
                         </div>
@@ -149,7 +149,7 @@
 
         <div class="shape-01">
             <img src="{{ asset('frontend/images/shapes/shape-01.png') }}"
-                class="wow animate__animated animate__pulse animate__infinite" alt="Habu">
+                class="wow animate__animated animate__pulse animate__infinite" alt="nexis">
         </div>
 
         <div class="bottom-arrow text-center">
@@ -315,18 +315,18 @@
         </div>
 
         <div class="custom-projects-shape-2">
-            <img src="{{ asset('frontend/images/shapes/shape-02.png') }}" alt="Habu">
+            <img src="{{ asset('frontend/images/shapes/shape-02.png') }}" alt="nexis">
         </div>
         <div class="custom-projects-circle-1">
             <img src="{{ asset('frontend/images/shapes/shape-circle.png') }}"
-                class="wow animate__animated animate__pulse animate__infinite" alt="Habu">
+                class="wow animate__animated animate__pulse animate__infinite" alt="nexis">
         </div>
         <div class="custom-projects-circle-2">
-            <img src="{{ asset('frontend/images/shapes/shape-circle.png') }}" alt="Habu">
+            <img src="{{ asset('frontend/images/shapes/shape-circle.png') }}" alt="nexis">
         </div>
         <div class="custom-projects-circle-3">
             <img src="{{ asset('frontend/images/shapes/shape-circle.png') }}"
-                class="wow animate__animated animate__pulse animate__infinite" alt="Habu">
+                class="wow animate__animated animate__pulse animate__infinite" alt="nexis">
         </div>
         <div class="custom-projects-circle-4"></div>
     </div>
@@ -336,14 +336,14 @@
     {{-- <div class="companies d-flex align-items-center">
         <div class="container">
             <div class="row justify-content-between companies-logo">
-                <div class="mx-auto"><img src="images/logo/company-logo/logo-kupa.png" class="mx-auto my-auto" alt="Habu"></div>
-                <div class="mx-auto"><img src="images/logo/company-logo/logo-tarabara.png" class="mx-auto my-auto" alt="Habu"></div>
-                <div class="mx-auto"><img src="images/logo/company-logo/logo-shiram.png" class="mx-auto my-auto" alt="Habu"></div>
-                <div class="mx-auto"><img src="images/logo/company-logo/logo-codex.png" class="mx-auto my-auto" alt="Habu"></div>
-                <div class="mx-auto"><img src="images/logo/company-logo/logo-kupa.png" class="mx-auto my-auto" alt="Habu"></div>
-                <div class="mx-auto"><img src="images/logo/company-logo/logo-tarabara.png" class="mx-auto my-auto" alt="Habu"></div>
-                <div class="mx-auto"><img src="images/logo/company-logo/logo-shiram.png" class="mx-auto my-auto" alt="Habu"></div>
-                <div class="mx-auto"><img src="images/logo/company-logo/logo-codex.png" class="mx-auto my-auto" alt="Habu"></div>
+                <div class="mx-auto"><img src="images/logo/company-logo/logo-kupa.png" class="mx-auto my-auto" alt="nexis"></div>
+                <div class="mx-auto"><img src="images/logo/company-logo/logo-tarabara.png" class="mx-auto my-auto" alt="nexis"></div>
+                <div class="mx-auto"><img src="images/logo/company-logo/logo-shiram.png" class="mx-auto my-auto" alt="nexis"></div>
+                <div class="mx-auto"><img src="images/logo/company-logo/logo-codex.png" class="mx-auto my-auto" alt="nexis"></div>
+                <div class="mx-auto"><img src="images/logo/company-logo/logo-kupa.png" class="mx-auto my-auto" alt="nexis"></div>
+                <div class="mx-auto"><img src="images/logo/company-logo/logo-tarabara.png" class="mx-auto my-auto" alt="nexis"></div>
+                <div class="mx-auto"><img src="images/logo/company-logo/logo-shiram.png" class="mx-auto my-auto" alt="nexis"></div>
+                <div class="mx-auto"><img src="images/logo/company-logo/logo-codex.png" class="mx-auto my-auto" alt="nexis"></div>
             </div>
         </div>
     </div> --}}
@@ -506,7 +506,7 @@
                 <div class="col-lg-4 col-6 grid-item design bug">
                     <div class="project-box">
                         <div class="project-thumbnail">
-                            <img src="{{ asset('frontend/images/projects/work-01.png') }}" alt="Habu">
+                            <img src="{{ asset('frontend/images/projects/work-01.png') }}" alt="nexis">
                         </div>
                         <div class="project-text text-center">
                             <a href="portfolio-details.html">
@@ -519,7 +519,7 @@
                 <div class="col-lg-4 col-6 grid-item marketing custom">
                     <div class="project-box">
                         <div class="project-thumbnail">
-                            <img src="{{ asset('frontend/images/projects/work-06.png') }}" alt="Habu">
+                            <img src="{{ asset('frontend/images/projects/work-06.png') }}" alt="nexis">
                         </div>
                         <div class="project-text text-center">
                             <a href="portfolio-details.html">
@@ -532,7 +532,7 @@
                 <div class="col-lg-4 col-6 grid-item design custom">
                     <div class="project-box">
                         <div class="project-thumbnail">
-                            <img src="{{ asset('frontend/images/projects/work-04.png') }}" alt="Habu">
+                            <img src="{{ asset('frontend/images/projects/work-04.png') }}" alt="nexis">
                         </div>
                         <div class="project-text text-center">
                             <a href="portfolio-details.html">
@@ -545,7 +545,7 @@
                 <div class="col-lg-4 col-6 grid-item design bug">
                     <div class="project-box">
                         <div class="project-thumbnail">
-                            <img src="{{ asset('frontend/images/projects/work-02.png') }}" alt="Habu">
+                            <img src="{{ asset('frontend/images/projects/work-02.png') }}" alt="nexis">
                         </div>
                         <div class="project-text text-center">
                             <a href="portfolio-details.html">
@@ -558,7 +558,7 @@
                 <div class="col-lg-4 col-6 grid-item marketing custom">
                     <div class="project-box">
                         <div class="project-thumbnail">
-                            <img src="{{ asset('frontend/images/projects/work-05.png') }}" alt="Habu">
+                            <img src="{{ asset('frontend/images/projects/work-05.png') }}" alt="nexis">
                         </div>
                         <div class="project-text text-center">
                             <a href="portfolio-details.html">
@@ -571,7 +571,7 @@
                 <div class="col-lg-4 col-6 grid-item marketing bug custom">
                     <div class="project-box">
                         <div class="project-thumbnail">
-                            <img src="{{ asset('frontend/images/projects/work-03.png') }}" alt="Habu">
+                            <img src="{{ asset('frontend/images/projects/work-03.png') }}" alt="nexis">
                         </div>
                         <div class="project-text text-center">
                             <a href="portfolio-details.html">
@@ -584,7 +584,7 @@
                 <div class="col-lg-8 col-6 grid-item design">
                     <div class="project-box">
                         <div class="project-thumbnail">
-                            <img src="{{ asset('frontend/images/projects/work-07.png') }}" alt="Habu">
+                            <img src="{{ asset('frontend/images/projects/work-07.png') }}" alt="nexis">
                         </div>
                         <div class="project-text text-center">
                             <a href="portfolio-details.html">
@@ -597,7 +597,7 @@
                 <div class="col-lg-4 col-6 grid-item design marketing">
                     <div class="project-box">
                         <div class="project-thumbnail">
-                            <img src="{{ asset('frontend/images/projects/work-08.png') }}" alt="Habu">
+                            <img src="{{ asset('frontend/images/projects/work-08.png') }}" alt="nexis">
                         </div>
                         <div class="project-text text-center">
                             <a href="portfolio-details.html">
@@ -858,7 +858,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-8 offset-lg-0 offset-md-2">
                     <div class="post">
                         <div class="post-thumbnail">
-                            <a href="blog-details.html"><img src="images/blog/post-01.png" alt="Habu"></a>
+                            <a href="blog-details.html"><img src="images/blog/post-01.png" alt="nexis"></a>
                         </div>
                         <div class="post-excerpt">
                             <a href="blog.html">News</a>
@@ -876,7 +876,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-8 offset-lg-0 offset-md-2">
                     <div class="post">
                         <div class="post-thumbnail">
-                            <a href="blog-details.html"><img src="images/blog/post-02.png" alt="Habu"></a>
+                            <a href="blog-details.html"><img src="images/blog/post-02.png" alt="nexis"></a>
                         </div>
                         <div class="post-excerpt">
                             <a href="blog.html">News</a>
@@ -894,7 +894,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-8 offset-lg-0 offset-md-2">
                     <div class="post">
                         <div class="post-thumbnail">
-                            <a href="blog-details.html"><img src="images/blog/post-03.png" alt="Habu"></a>
+                            <a href="blog-details.html"><img src="images/blog/post-03.png" alt="nexis"></a>
                         </div>
                         <div class="post-excerpt">
                             <a href="blog.html">News</a>
@@ -948,7 +948,7 @@
                             </svg>
                         </div>
                         <div class="client-profile">
-                            <img src="images/clients/client.png" alt="Habu">
+                            <img src="images/clients/client.png" alt="nexis">
                             <div class="client-details">
                                 <h2>Nathaneal Down</h2>
                                 <p>HD Manager</p>
@@ -979,7 +979,7 @@
                             </svg>
                         </div>
                         <div class="client-profile">
-                            <img src="images/clients/client.png" alt="Habu">
+                            <img src="images/clients/client.png" alt="nexis">
                             <div class="client-details">
                                 <h2>Nathaneal Down</h2>
                                 <p>HD Manager</p>
@@ -1010,7 +1010,7 @@
                             </svg>
                         </div>
                         <div class="client-profile">
-                            <img src="images/clients/client-02.png" alt="Habu">
+                            <img src="images/clients/client-02.png" alt="nexis">
                             <div class="client-details">
                                 <h2>Nathaneal Down</h2>
                                 <p>HD Manager</p>
@@ -1041,7 +1041,7 @@
                             </svg>
                         </div>
                         <div class="client-profile">
-                            <img src="images/clients/client-02.png" alt="Habu">
+                            <img src="images/clients/client-02.png" alt="nexis">
                             <div class="client-details">
                                 <h2>Nathaneal Down</h2>
                                 <p>HD Manager</p>
@@ -1072,7 +1072,7 @@
                             </svg>
                         </div>
                         <div class="client-profile">
-                            <img src="images/clients/client-02.png" alt="Habu">
+                            <img src="images/clients/client-02.png" alt="nexis">
                             <div class="client-details">
                                 <h2>Nathaneal Down</h2>
                                 <p>HD Manager</p>
