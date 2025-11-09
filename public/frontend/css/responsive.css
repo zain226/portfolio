@@ -109,7 +109,7 @@
         display: none
     }
     .banner-image>img {
-        visibility: hidden;
+        /* visibility: hidden; */
     }
     .banner-image {
         /* background-image: url('../images/banner/home_banner.png'); */
