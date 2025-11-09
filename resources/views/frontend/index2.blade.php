@@ -1179,6 +1179,21 @@
                 }
             });
         });
+
+        $(window).scroll(function() {
+            var scroll = $(window).scrollTop();
+            var normalLogo = '{{ asset('frontend/images/logo/nexlogo.svg') }}';
+            var lightLogo = '{{ asset('frontend/images/logo/nexlogo_white.svg') }}';
+
+            if (scroll >= 300) {
+                $(".menu-header").addClass("menu-header-dark");
+                  $("img.logo").attr("src", lightLogo);
+            } else {
+                $(".menu-header").removeClass("menu-header-dark");
+                  $("img.logo").attr("src", normalLogo);
+                  $(".home-02-menu-header img.logo").attr("src", lightLogo);
+            }
+        });
     </script>
 </body>
 
