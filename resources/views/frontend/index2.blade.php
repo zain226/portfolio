@@ -133,7 +133,8 @@
                         </div>
                         <div class="col-xl-5 col-lg-6 col-md-6">
                             <div class="banner-image">
-                                <img src="{{ asset('frontend/images/banner/home_banner.jpg') }}" class="w-100" alt="nexis">
+                                <img src="{{ asset('frontend/images/banner/home_banner.jpg') }}" class="w-100"
+                                    alt="nexis">
                                 <div class="shape-0">
                                     <img src="{{ asset('frontend/images/shapes/shape-0.png') }}" alt="nexis">
                                 </div>
@@ -1170,6 +1171,9 @@
 
 
     <script>
+        $(document).ready(function() {
+            $('.project-menu button[data-filter=".design"]').trigger('click');
+        });
         $('#contactForm').on('submit', function(e) {
             e.preventDefault();
 
@@ -1201,11 +1205,11 @@
 
             if (scroll >= 300) {
                 $(".menu-header").addClass("menu-header-dark");
-                  $("img.logo").attr("src", lightLogo);
+                $("img.logo").attr("src", lightLogo);
             } else {
                 $(".menu-header").removeClass("menu-header-dark");
-                  $("img.logo").attr("src", normalLogo);
-                  $(".home-02-menu-header img.logo").attr("src", lightLogo);
+                $("img.logo").attr("src", normalLogo);
+                $(".home-02-menu-header img.logo").attr("src", lightLogo);
             }
         });
     </script>
