@@ -506,7 +506,7 @@
                 <div class="col-lg-4 col-6 grid-item design bug">
                     <div class="project-box">
                         <div class="project-thumbnail">
-                            <img src="{{ asset('frontend/images/projects/work-01.png') }}" alt="nexis">
+                            <img src="{{ asset('frontend/images/projects/image01.png') }}" alt="nexis">
                         </div>
                         <div class="project-text text-center">
                             <a href="portfolio-details.html">
@@ -519,7 +519,7 @@
                 <div class="col-lg-4 col-6 grid-item marketing custom">
                     <div class="project-box">
                         <div class="project-thumbnail">
-                            <img src="{{ asset('frontend/images/projects/work-06.png') }}" alt="nexis">
+                            <img src="{{ asset('frontend/images/projects/image06.png') }}" alt="nexis">
                         </div>
                         <div class="project-text text-center">
                             <a href="portfolio-details.html">
@@ -532,7 +532,7 @@
                 <div class="col-lg-4 col-6 grid-item design custom">
                     <div class="project-box">
                         <div class="project-thumbnail">
-                            <img src="{{ asset('frontend/images/projects/work-04.png') }}" alt="nexis">
+                            <img src="{{ asset('frontend/images/projects/image04.png') }}" alt="nexis">
                         </div>
                         <div class="project-text text-center">
                             <a href="portfolio-details.html">
@@ -545,7 +545,7 @@
                 <div class="col-lg-4 col-6 grid-item design bug">
                     <div class="project-box">
                         <div class="project-thumbnail">
-                            <img src="{{ asset('frontend/images/projects/work-02.png') }}" alt="nexis">
+                            <img src="{{ asset('frontend/images/projects/image02.png') }}" alt="nexis">
                         </div>
                         <div class="project-text text-center">
                             <a href="portfolio-details.html">
@@ -558,7 +558,7 @@
                 <div class="col-lg-4 col-6 grid-item marketing custom">
                     <div class="project-box">
                         <div class="project-thumbnail">
-                            <img src="{{ asset('frontend/images/projects/work-05.png') }}" alt="nexis">
+                            <img src="{{ asset('frontend/images/projects/image05.png') }}" alt="nexis">
                         </div>
                         <div class="project-text text-center">
                             <a href="portfolio-details.html">
@@ -571,7 +571,7 @@
                 <div class="col-lg-4 col-6 grid-item marketing bug custom">
                     <div class="project-box">
                         <div class="project-thumbnail">
-                            <img src="{{ asset('frontend/images/projects/work-03.png') }}" alt="nexis">
+                            <img src="{{ asset('frontend/images/projects/image03.png') }}" alt="nexis">
                         </div>
                         <div class="project-text text-center">
                             <a href="portfolio-details.html">
@@ -584,7 +584,7 @@
                 <div class="col-lg-8 col-6 grid-item design">
                     <div class="project-box">
                         <div class="project-thumbnail">
-                            <img src="{{ asset('frontend/images/projects/work-07.png') }}" alt="nexis">
+                            <img src="{{ asset('frontend/images/projects/image07.png') }}" alt="nexis">
                         </div>
                         <div class="project-text text-center">
                             <a href="portfolio-details.html">
@@ -597,7 +597,7 @@
                 <div class="col-lg-4 col-6 grid-item design marketing">
                     <div class="project-box">
                         <div class="project-thumbnail">
-                            <img src="{{ asset('frontend/images/projects/work-08.png') }}" alt="nexis">
+                            <img src="{{ asset('frontend/images/projects/image08.png') }}" alt="nexis">
                         </div>
                         <div class="project-text text-center">
                             <a href="portfolio-details.html">
