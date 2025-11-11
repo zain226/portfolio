@@ -495,9 +495,10 @@
                     <div class="project-menu filter-button-group">
                         <button class="active" data-filter="*">All</button>
                         <button data-filter=".design">Design</button>
-                        <button data-filter=".marketing">Marketing</button>
-                        <button data-filter=".bug">Bug Fixing</button>
-                        <button data-filter=".custom">Custom Projects</button>
+                        <button data-filter=".marketing">Dashboards</button>
+                        <button data-filter=".bug">Mobile Apps</button>
+                        <button data-filter=".custom">UI/UX</button>
+                        <button data-filter=".game">Game Development</button>
                     </div>
                 </div>
             </div>
@@ -595,6 +596,19 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-6 grid-item design marketing">
+                    <div class="project-box">
+                        <div class="project-thumbnail">
+                            <img src="{{ asset('frontend/images/projects/image08.png') }}" alt="nexis">
+                        </div>
+                        <div class="project-text text-center">
+                            <a href="portfolio-details.html">
+                                <h3>View Website</h3>
+
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-6 grid-item  game">
                     <div class="project-box">
                         <div class="project-thumbnail">
                             <img src="{{ asset('frontend/images/projects/image08.png') }}" alt="nexis">
