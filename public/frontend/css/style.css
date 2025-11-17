@@ -596,7 +596,7 @@ section.projects-area {
 }
 
 .project-box:hover .project-text, .project-box:hover .project-thumbnail::before {
-    opacity: 1;
+    /* opacity: 1; */
     transition: 0.3s;
 }
 

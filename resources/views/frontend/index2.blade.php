@@ -71,9 +71,9 @@
                     </div>
                 </div>
                 <div class="col-xl-2 col-lg-3 col-md-4 col-sm-0 text-right top-header-social">
-                    <a href="https://www.facebook.com"><i class="fab fa-facebook-f"></i></a>
+                    {{-- <a href="https://www.facebook.com"><i class="fab fa-facebook-f"></i></a>
                     <a href="https://linkedin.com/"><i class="fab fa-linkedin"></i></a>
-                    <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
+                    <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a> --}}
                 </div>
             </div>
         </div>
@@ -504,125 +504,7 @@
                 </div>
             </div>
 
-            <div class="row projects-holder grid">
-                <div class="col-lg-4 col-6 grid-item design bug">
-                    <div class="project-box">
-                        <div class="project-thumbnail">
-                            <img src="{{ asset('frontend/images/projects/image01.png') }}" alt="nexis">
-                        </div>
-                        <div class="project-text text-center">
-                            <a href="portfolio-details.html">
-                                <h3>View Website</h3>
-
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-6 grid-item marketing custom">
-                    <div class="project-box">
-                        <div class="project-thumbnail">
-                            <img src="{{ asset('frontend/images/projects/image06.png') }}" alt="nexis">
-                        </div>
-                        <div class="project-text text-center">
-                            <a href="portfolio-details.html">
-                                <h3>View Website</h3>
-
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-6 grid-item design custom">
-                    <div class="project-box">
-                        <div class="project-thumbnail">
-                            <img src="{{ asset('frontend/images/projects/image04.png') }}" alt="nexis">
-                        </div>
-                        <div class="project-text text-center">
-                            <a href="portfolio-details.html">
-                                <h3>View Website</h3>
-
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-6 grid-item design bug">
-                    <div class="project-box">
-                        <div class="project-thumbnail">
-                            <img src="{{ asset('frontend/images/projects/image02.png') }}" alt="nexis">
-                        </div>
-                        <div class="project-text text-center">
-                            <a href="portfolio-details.html">
-                                <h3>View Website</h3>
-
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-6 grid-item marketing custom">
-                    <div class="project-box">
-                        <div class="project-thumbnail">
-                            <img src="{{ asset('frontend/images/projects/image05.png') }}" alt="nexis">
-                        </div>
-                        <div class="project-text text-center">
-                            <a href="portfolio-details.html">
-                                <h3>View Website</h3>
-
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-6 grid-item marketing bug custom">
-                    <div class="project-box">
-                        <div class="project-thumbnail">
-                            <img src="{{ asset('frontend/images/projects/image03.png') }}" alt="nexis">
-                        </div>
-                        <div class="project-text text-center">
-                            <a href="portfolio-details.html">
-                                <h3>View Website</h3>
-
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-8 col-6 grid-item design">
-                    <div class="project-box">
-                        <div class="project-thumbnail">
-                            <img src="{{ asset('frontend/images/projects/image07.png') }}" alt="nexis">
-                        </div>
-                        <div class="project-text text-center">
-                            <a href="portfolio-details.html">
-                                <h3>View Website</h3>
-
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-6 grid-item design marketing">
-                    <div class="project-box">
-                        <div class="project-thumbnail">
-                            <img src="{{ asset('frontend/images/projects/image08.png') }}" alt="nexis">
-                        </div>
-                        <div class="project-text text-center">
-                            <a href="portfolio-details.html">
-                                <h3>View Website</h3>
-
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-6 grid-item  game">
-                    <div class="project-box">
-                        <div class="project-thumbnail">
-                            <img src="{{ asset('frontend/images/projects/image08.png') }}" alt="nexis">
-                        </div>
-                        <div class="project-text text-center">
-                            <a href="portfolio-details.html">
-                                <h3>View Website</h3>
-
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            @include('frontend.components.projects')
             {{-- <div class="text-center"><a href="portfolio.html"
                     class="wow animate__animated animate__flipInX large-blue-button">Load More</a></div> --}}
         </div>
