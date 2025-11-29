@@ -14,6 +14,9 @@ Route::get('/portfolio', function () {
 Route::get('/portfolio2', function () {
     return view('frontend.index2');
 })->name('home');
+Route::get('/portfolio3', function () {
+    return view('frontend.index3');
+})->name('home3');
 
 
 
