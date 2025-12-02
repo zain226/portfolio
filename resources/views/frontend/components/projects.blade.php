@@ -5,7 +5,7 @@
                 <img src="{{ asset('frontend/images/projects/image01.png') }}" alt="nexis">
             </div>
             <div class="project-text text-center">
-                <a href="portfolio-details.html">
+                <a href="javascript:;">
                     <h3>View Website</h3>
 
                 </a>
@@ -18,7 +18,7 @@
                 <img src="{{ asset('frontend/images/projects/image06.png') }}" alt="nexis">
             </div>
             <div class="project-text text-center">
-                <a href="portfolio-details.html">
+                <a href="javascript:;">
                     <h3>View Website</h3>
 
                 </a>
@@ -31,7 +31,7 @@
                 <img src="{{ asset('frontend/images/projects/image04.png') }}" alt="nexis">
             </div>
             <div class="project-text text-center">
-                <a href="portfolio-details.html">
+                <a href="javascript:;">
                     <h3>View Website</h3>
 
                 </a>
@@ -44,7 +44,7 @@
                 <img src="{{ asset('frontend/images/projects/image02.png') }}" alt="nexis">
             </div>
             <div class="project-text text-center">
-                <a href="portfolio-details.html">
+                <a href="javascript:;">
                     <h3>View Website</h3>
 
                 </a>
@@ -57,7 +57,7 @@
                 <img src="{{ asset('frontend/images/projects/image05.png') }}" alt="nexis">
             </div>
             <div class="project-text text-center">
-                <a href="portfolio-details.html">
+                <a href="javascript:;">
                     <h3>View Website</h3>
 
                 </a>
@@ -70,7 +70,7 @@
                 <img src="{{ asset('frontend/images/projects/image03.png') }}" alt="nexis">
             </div>
             <div class="project-text text-center">
-                <a href="portfolio-details.html">
+                <a href="javascript:;">
                     <h3>View Website</h3>
 
                 </a>
@@ -97,7 +97,7 @@
                 <img src="{{ asset('frontend/images/projects/image11.png') }}" alt="nexis">
             </div>
             <div class="project-text text-center">
-                <a href="portfolio-details.html">
+                <a href="javascript:;">
                     <h3>View Website</h3>
 
                 </a>
@@ -110,7 +110,7 @@
                 <img src="{{ asset('frontend/images/projects/image08.png') }}" alt="nexis">
             </div>
             <div class="project-text text-center">
-                <a href="portfolio-details.html">
+                <a href="javascript:;">
                     <h3>View Website</h3>
 
                 </a>
@@ -123,7 +123,7 @@
                 <img src="{{ asset('frontend/images/projects/image09.png') }}" alt="nexis">
             </div>
             <div class="project-text text-center">
-                <a href="portfolio-details.html">
+                <a href="javascript:;">
                     <h3>View Website</h3>
 
                 </a>
@@ -136,7 +136,7 @@
                 <img src="{{ asset('frontend/images/projects/image10.png') }}" alt="nexis">
             </div>
             <div class="project-text text-center">
-                <a href="portfolio-details.html">
+                <a href="javascript:;">
                     <h3>View Website</h3>
 
                 </a>
